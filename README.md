@@ -1,1 +1,3 @@
-"# E_CommercePlatformERD" 
+The E-Commerce Platform ERD describes a design that includes key entities such as Vendors, who list Products, and Customers, who browse products, place Orders, and make Payments. The system also supports Product Reviews and Order Tracking. The diagram incorporates cardinality constraints, such as one vendor listing multiple products, and one customer placing multiple orders, while each order is tied to a single payment. Participation constraints are also applied, such as total participation for a product being linked to a vendor, but partial participation for vendors who may exist without listing products. This design reflects the relationships between entities and ensures essential processes, like payments and orders, are mandatory, while optional features like reviews are supported. 
+
+Written by AZZA KHALID AL-MAHROOQI
